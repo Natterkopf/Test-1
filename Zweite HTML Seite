@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+	<head>
+		<title> kleiner Wal </title>
+	</head>
+	<body style="font-family: Arial">
+		<h1>  Was kann der kleine Wal so alles? </h1>
+		<p> Dieser Frage nachzugehen, erfordert es Listen, Tabellen und lauter
+		andere komplizierte Dinge, wenn man es "programmieren" will.
+		<br> So Sachen wie <b> fett </b> oder <i> kursiv </i>. <br><br><br>
+		<h2> Pro und Kontra Liste </h2>
+		<ul>
+		<li> Pupsen </li>
+		<li> Schnarchen
+		<li> Süß sein
+		<li> Die besten Bilder und Videos machen
+		<li> Für einen da sein <3
+		<li> Verdammt gut aussehen
+		<li> Schlau sein
+		<li> Neugirig sein
+		<li> Abenteuerlustig sein
+		<li> Und noch vieles mehr..</li>
+		<li style="color:red;"> Achja und Kontra gibts nichts </li>
+		<li style="font-family: Comic Sans MS;"> Ach stimmt Comic Sans magst
+		du nicht </li>
+		</ul> <br>
+		<img src="https://p.istdaslustig.de/images/16722.png" alt="lustiges Bild"
+		style="width:500px;height:500px">
+		<br>
+		<p> So und damit du auch weitere Informationen zu deinem <s> Lieblingshobby </s>
+		hoch <sup> 2 </sup> bekommst, hier noch weitereführende Literatur dazu:
+		</p> <a href="https://www.chs-pupsland.cz/"; title="Hier gehts zum Pupslalaland">Virenalarm </a>
+		<br> <br> <p> Noch ein letzter Hinweis in eigener Sache. Wenn man diesem Link folgt und sich das anschaut, dann wird man vor Schönheit geblendet werden: </p>
+		<a href="https://www.instagram.com/larii.le/"; title="Lass dich überraschen"> Sei bereit! </a>
+		<p>Jetzt wird hier aber noch ein Schlussstrich darunter gezogen. </p> <hr>
+
+		</body>
+</!DOCTYPE html>
